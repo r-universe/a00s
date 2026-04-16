@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/a00s/a00s.r-universe.dev
 	branch = HEAD
+[submodule "ugplot"]
+	path = ugplot
+	url = https://github.com/a00s/ugplot
